@@ -35,5 +35,8 @@
         "*.js"
       ]
     }
-  ]
+  ],
+  "publishConfig": {
+    "registry": "http://repo.cg.ru/repository/npm-private/"
+  }
 }
