@@ -37,6 +37,6 @@
     }
   ],
   "publishConfig": {
-    "registry": "http://repo.cg.ru/repository/npm-private/"
+    "registry": "https://repo.micord.ru/repository/npm-private/"
   }
 }
